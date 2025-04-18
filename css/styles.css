@@ -39,6 +39,7 @@ a {
 
 button {
     cursor: pointer;
+    border: none;
 }
 
 img {
@@ -786,7 +787,6 @@ ul {
 }
 
 .send-btn {
-    border: none;
     display: block;
     margin: 0 auto;
     font-weight: 500;
